@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Suryakantn/Textutils/static/css/main.31d6cfe0.css",
+    "main.js": "/Suryakantn/Textutils/static/js/main.2afb0301.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Suryakantn/Textutils/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Suryakantn/Textutils/index.html",
+    "main.2afb0301.js.map": "/Suryakantn/Textutils/static/js/main.2afb0301.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Suryakantn/Textutils/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.2afb0301.js"
+  ]
+}
